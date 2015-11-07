@@ -2,13 +2,13 @@
 
 Silence output from external process
 
-To install
+#### install
 
 ```
 pip install muffle
 ```
 
-To use
+#### use
 
 ```python
 import muffle
