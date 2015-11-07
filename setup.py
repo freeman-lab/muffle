@@ -9,6 +9,7 @@ setup(
     description='silence output from external process',
     author='freeman-lab',
     author_email='the.freeman.lab@gmail.com',
+    packages=['muffle'],
     url='https://github.com/freeman-lab/muffle',
     long_description='See https://github.com/freeman-lab/muffle'
 )
