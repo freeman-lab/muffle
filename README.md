@@ -1,6 +1,6 @@
 # muffle
 
-Simple module for silencing all output from external process. Really, all.
+Simple module for silencing all output from external process. Really, all. Based on this [post](http://stackoverflow.com/questions/11130156/suppress-stdout-stderr-print-from-python-functions).
 
 #### install
 
