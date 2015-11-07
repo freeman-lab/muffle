@@ -1,6 +1,6 @@
 # muffle
 
-Simple module for silencing **all** output from external process.
+Simple module for silencing all output from external process. Really all.
 
 #### install
 
