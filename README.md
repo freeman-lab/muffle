@@ -13,6 +13,6 @@ pip install muffle
 ```python
 import muffle
 
-with muffle():
+with muffle.on():
   # do noisy stuff
 ```
